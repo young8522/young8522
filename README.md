@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-I am a researcher in the field of Communication Engineering, specializing in cutting-edge research at the physical layer. My current focus is on Integrated Sensing and Communication (ISAC) and the application of Artificial Intelligence (AI) within this domain.
+I am a researcher in the field of Communication Engineering. My current focus is on Integrated Sensing and Communication (ISAC) and the application of Artificial Intelligence (AI) within this domain.
 
 ## About Me
 - 🌏 Based in Taiwan
