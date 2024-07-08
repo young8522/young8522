@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**young8522/young8522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a researcher in the field of Communication Engineering, specializing in cutting-edge research at the physical layer. My current focus is on Integrated Sensing and Communication (ISAC) and the application of Artificial Intelligence (AI) within this domain.
 
-Here are some ideas to get you started:
+## About Me
+- 🌏 Based in Taiwan
+- 📡 Enthusiastic about sharing knowledge and collaborating on innovative projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Areas of Expertise
+- **Communication Knowledge**
+  - Network Layer
+  - Physical Layer
+  - Signal Transmission Models
+  - System Design
+- **Deep Learning Combined with Communication**
+  - Applications of AI in Communication Systems
+
+Feel free to reach out if you're interested in collaborating or learning more about my work!
